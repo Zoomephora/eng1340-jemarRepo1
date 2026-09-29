@@ -9,4 +9,4 @@ Example 12 x 10
 
 +120 (12 x 10, using a placeholder zero)
 
-120 (The final product)
+ (The final product)
